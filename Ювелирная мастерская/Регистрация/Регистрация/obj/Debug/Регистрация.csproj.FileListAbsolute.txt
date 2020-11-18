@@ -1,0 +1,34 @@
+A:\Программирование\Регистрация\Регистрация\obj\Debug\Регистрация.csprojAssemblyReference.cache
+A:\Программирование\Регистрация\Регистрация\obj\Debug\Регистрация.Form1.resources
+A:\Программирование\Регистрация\Регистрация\obj\Debug\Регистрация.Properties.Resources.resources
+A:\Программирование\Регистрация\Регистрация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+A:\Программирование\Регистрация\Регистрация\bin\Debug\Регистрация.exe.config
+A:\Программирование\Регистрация\Регистрация\bin\Debug\Регистрация.exe
+A:\Программирование\Регистрация\Регистрация\bin\Debug\Регистрация.pdb
+A:\Программирование\Регистрация\Регистрация\obj\Debug\Регистрация.exe
+A:\Программирование\Регистрация\Регистрация\obj\Debug\Регистрация.pdb
+A:\Программирование\Регистрация\Регистрация\obj\Debug\Регистрация.Form3.resources
+A:\Программирование\Регистрация\Регистрация\obj\Debug\Регистрация.Form2.resources
+C:\Users\Кирилл\Desktop\Регистрация\Регистрация\bin\Debug\Регистрация.exe.config
+C:\Users\Кирилл\Desktop\Регистрация\Регистрация\bin\Debug\Регистрация.exe
+C:\Users\Кирилл\Desktop\Регистрация\Регистрация\bin\Debug\Регистрация.pdb
+C:\Users\Кирилл\Desktop\Регистрация\Регистрация\obj\Debug\Регистрация.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\Регистрация\Регистрация\obj\Debug\Регистрация.Form1.resources
+C:\Users\Кирилл\Desktop\Регистрация\Регистрация\obj\Debug\Регистрация.Form2.resources
+C:\Users\Кирилл\Desktop\Регистрация\Регистрация\obj\Debug\Регистрация.Form3.resources
+C:\Users\Кирилл\Desktop\Регистрация\Регистрация\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Регистрация\Регистрация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Регистрация\Регистрация\obj\Debug\Регистрация.exe
+C:\Users\Кирилл\Desktop\Регистрация\Регистрация\obj\Debug\Регистрация.pdb
+C:\Users\Кирилл\Desktop\Ювелирная мастерская\Регистрация\Регистрация\bin\Debug\Регистрация.exe.config
+C:\Users\Кирилл\Desktop\Ювелирная мастерская\Регистрация\Регистрация\bin\Debug\Регистрация.exe
+C:\Users\Кирилл\Desktop\Ювелирная мастерская\Регистрация\Регистрация\bin\Debug\Регистрация.pdb
+C:\Users\Кирилл\Desktop\Ювелирная мастерская\Регистрация\Регистрация\obj\Debug\Регистрация.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\Ювелирная мастерская\Регистрация\Регистрация\obj\Debug\Регистрация.Form1.resources
+C:\Users\Кирилл\Desktop\Ювелирная мастерская\Регистрация\Регистрация\obj\Debug\Регистрация.Form2.resources
+C:\Users\Кирилл\Desktop\Ювелирная мастерская\Регистрация\Регистрация\obj\Debug\Регистрация.Form3.resources
+C:\Users\Кирилл\Desktop\Ювелирная мастерская\Регистрация\Регистрация\obj\Debug\Регистрация.Form5.resources
+C:\Users\Кирилл\Desktop\Ювелирная мастерская\Регистрация\Регистрация\obj\Debug\Регистрация.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Ювелирная мастерская\Регистрация\Регистрация\obj\Debug\Регистрация.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Ювелирная мастерская\Регистрация\Регистрация\obj\Debug\Регистрация.exe
+C:\Users\Кирилл\Desktop\Ювелирная мастерская\Регистрация\Регистрация\obj\Debug\Регистрация.pdb
