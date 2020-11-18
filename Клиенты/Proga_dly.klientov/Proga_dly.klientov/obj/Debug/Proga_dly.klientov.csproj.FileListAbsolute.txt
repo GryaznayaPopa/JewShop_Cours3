@@ -1,0 +1,57 @@
+Y:\Student\18ИП3\МДК02.02\Ювелирная мастерская\Для программ\Proga_dly.klientov\Proga_dly.klientov\bin\Debug\Proga_dly.klientov.exe.config
+Y:\Student\18ИП3\МДК02.02\Ювелирная мастерская\Для программ\Proga_dly.klientov\Proga_dly.klientov\bin\Debug\Proga_dly.klientov.exe
+Y:\Student\18ИП3\МДК02.02\Ювелирная мастерская\Для программ\Proga_dly.klientov\Proga_dly.klientov\bin\Debug\Proga_dly.klientov.pdb
+Y:\Student\18ИП3\МДК02.02\Ювелирная мастерская\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.csprojAssemblyReference.cache
+Y:\Student\18ИП3\МДК02.02\Ювелирная мастерская\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Properties.Resources.resources
+Y:\Student\18ИП3\МДК02.02\Ювелирная мастерская\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.csproj.GenerateResource.cache
+Y:\Student\18ИП3\МДК02.02\Ювелирная мастерская\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.csproj.CoreCompileInputs.cache
+Y:\Student\18ИП3\МДК02.02\Ювелирная мастерская\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.exe
+Y:\Student\18ИП3\МДК02.02\Ювелирная мастерская\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.pdb
+Y:\Student\18ИП3\МДК02.02\Ювелирная мастерская\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.ГлавМеню.resources
+Y:\Student\18ИП3\МДК02.02\Ювелирная мастерская\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Покупка.resources
+Y:\Student\18ИП3\МДК02.02\Ювелирная мастерская\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Починка.resources
+Y:\Student\18ИП3\МДК02.02\Ювелирная мастерская\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Браслеты.resources
+Y:\Student\18ИП3\МДК02.02\Ювелирная мастерская\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Колье.resources
+Y:\Student\18ИП3\МДК02.02\Ювелирная мастерская\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Кольца.resources
+Y:\Student\18ИП3\МДК02.02\Ювелирная мастерская\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Цепочки.resources
+C:\Users\User\Desktop\C# form\Для программ\Proga_dly.klientov\Proga_dly.klientov\bin\Debug\Proga_dly.klientov.exe.config
+C:\Users\User\Desktop\C# form\Для программ\Proga_dly.klientov\Proga_dly.klientov\bin\Debug\Proga_dly.klientov.exe
+C:\Users\User\Desktop\C# form\Для программ\Proga_dly.klientov\Proga_dly.klientov\bin\Debug\Proga_dly.klientov.pdb
+C:\Users\User\Desktop\C# form\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# form\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.ГлавМеню.resources
+C:\Users\User\Desktop\C# form\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Properties.Resources.resources
+C:\Users\User\Desktop\C# form\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Браслеты.resources
+C:\Users\User\Desktop\C# form\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Колье.resources
+C:\Users\User\Desktop\C# form\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Кольца.resources
+C:\Users\User\Desktop\C# form\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Покупка.resources
+C:\Users\User\Desktop\C# form\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Починка.resources
+C:\Users\User\Desktop\C# form\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Цепочки.resources
+C:\Users\User\Desktop\C# form\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C# form\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.exe
+C:\Users\User\Desktop\C# form\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.pdb
+C:\Users\User\Desktop\Для программ\Proga_dly.klientov\Proga_dly.klientov\bin\Debug\Proga_dly.klientov.exe.config
+C:\Users\User\Desktop\Для программ\Proga_dly.klientov\Proga_dly.klientov\bin\Debug\Proga_dly.klientov.exe
+C:\Users\User\Desktop\Для программ\Proga_dly.klientov\Proga_dly.klientov\bin\Debug\Proga_dly.klientov.pdb
+C:\Users\User\Desktop\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Properties.Resources.resources
+C:\Users\User\Desktop\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Браслеты.resources
+C:\Users\User\Desktop\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.ГлавМеню.resources
+C:\Users\User\Desktop\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Колье.resources
+C:\Users\User\Desktop\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Кольца.resources
+C:\Users\User\Desktop\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Покупка.resources
+C:\Users\User\Desktop\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.exe
+C:\Users\User\Desktop\Для программ\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.pdb
+C:\Users\Кирилл\Desktop\Клиенты\Proga_dly.klientov\Proga_dly.klientov\bin\Debug\Proga_dly.klientov.exe.config
+C:\Users\Кирилл\Desktop\Клиенты\Proga_dly.klientov\Proga_dly.klientov\bin\Debug\Proga_dly.klientov.exe
+C:\Users\Кирилл\Desktop\Клиенты\Proga_dly.klientov\Proga_dly.klientov\bin\Debug\Proga_dly.klientov.pdb
+C:\Users\Кирилл\Desktop\Клиенты\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\Клиенты\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Клиенты\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Браслеты.resources
+C:\Users\Кирилл\Desktop\Клиенты\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.ГлавМеню.resources
+C:\Users\Кирилл\Desktop\Клиенты\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Колье.resources
+C:\Users\Кирилл\Desktop\Клиенты\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Кольца.resources
+C:\Users\Кирилл\Desktop\Клиенты\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.Покупка.resources
+C:\Users\Кирилл\Desktop\Клиенты\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Клиенты\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.exe
+C:\Users\Кирилл\Desktop\Клиенты\Proga_dly.klientov\Proga_dly.klientov\obj\Debug\Proga_dly.klientov.pdb
